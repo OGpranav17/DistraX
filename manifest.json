@@ -1,0 +1,54 @@
+{
+  "manifest_version": 3,
+  "name": "DistraX",
+  "version": "1.0",
+  "description": "A mindful browsing extension that helps you stay productive",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://youtube.com/*",
+    "https://www.instagram.com/*",
+    "https://instagram.com/*",
+    "https://twitter.com/*",
+    "https://x.com/*",
+    "https://www.twitch.tv/*",
+    "https://twitch.tv/*",
+    "https://www.netflix.com/*",
+    "https://netflix.com/*",
+    "https://www.primevideo.com/*",
+    "https://primevideo.com/*",
+    "https://www.jiocinema.com/*",
+    "https://jiocinema.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*",
+        "https://www.instagram.com/*",
+        "https://instagram.com/*",
+        "https://twitter.com/*",
+        "https://x.com/*",
+        "https://www.twitch.tv/*",
+        "https://twitch.tv/*",
+        "https://www.netflix.com/*",
+        "https://netflix.com/*",
+        "https://www.primevideo.com/*",
+        "https://primevideo.com/*",
+        "https://www.jiocinema.com/*",
+        "https://jiocinema.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
