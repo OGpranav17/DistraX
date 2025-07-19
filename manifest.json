@@ -5,7 +5,8 @@
   "description": "A mindful browsing extension that helps you stay productive",
   "permissions": [
     "activeTab",
-    "scripting"
+    "scripting",
+    "storage"
   ],
   "host_permissions": [
     "https://www.youtube.com/*",
