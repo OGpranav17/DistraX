@@ -2,6 +2,10 @@
 
 **DistraX** is a minimal, no-nonsense Chrome extension that helps you stay focused by *blurring* distracting websites instead of outright blocking them. Just enough friction to stop you from falling into the rabbit hole — while still keeping things usable when needed.
 
+It is also a fun and colorful Chrome extension that helps you resist distractions 💻✨
+Blur out time-wasting websites and earn XP 🧠📈 for choosing productivity!
+🎮 Gamify your focus journey with streaks 🔥, levels 🧩, and motivational nudges 💪.
+
 ---
 
 ## 🧠 Why I Built It
@@ -9,6 +13,16 @@
 I tend to get easily distracted online — a quick scroll turns into 30 minutes lost. But I realized that sometimes, all I need is a small *nudge* to stay on track. **DistraX** became that gentle push for me. 
 
 So I built this extension to help others like me: people who don’t want rigid site blockers, but just a simple way to stay mindful and focused. Nothing bloated — just a quick, effective tool.
+
+If you're competetive like me and yearn to gain XP and acheivements (Gamers Assemble!) DistraX gives you this satisfaction by providing XP and providing levelups overtime based on how many productive choices you took ! 
+
+### 📸 Screenshots
+
+#### ⛔ When distraction strikes...
+![DistraX Popup 1](/DistraX/distra1.png)
+
+#### ✅ When you choose productivity!
+![DistraX Popup 2](/DistraX/distra2.png)
 
 ---
 
