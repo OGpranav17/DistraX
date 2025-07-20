@@ -19,10 +19,10 @@ If you're competetive like me and yearn to gain XP and acheivements (Gamers Asse
 ### 📸 Screenshots
 
 #### ⛔ When distraction strikes...
-![DistraX Popup 1](/DistraX/distra1.png)
+![DistraX Popup 1](distra1.png)
 
 #### ✅ When you choose productivity!
-![DistraX Popup 2](/DistraX/distra2.png)
+![DistraX Popup 2](distra2.png)
 
 ---
 
