@@ -6,6 +6,8 @@ It is also a fun and colorful Chrome extension that helps you resist distraction
 Blur out time-wasting websites and earn XP 🧠📈 for choosing productivity!
 🎮 Gamify your focus journey with streaks 🔥, levels 🧩, and motivational nudges 💪.
 
+USE MY EXTENSION TO LEVEL UP YOUR FOCUS !!!
+
 ---
 
 ## 🧠 Why I Built It
